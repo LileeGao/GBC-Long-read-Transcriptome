@@ -11,7 +11,7 @@ Refer to the official website and follow the step-by-step process
 ### isoseq3
 https://isoseq.how/clustering/cli-workflow.html
 
-### followed by cupcake：
+### followed by Cupcake：
 https://github.com/Magdoll/cDNA_Cupcake/wiki/Cupcake:-supporting-scripts-for-Iso-Seq-after-clustering-step
 
 ### followed by squanti3：
