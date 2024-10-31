@@ -6,8 +6,9 @@ we employed the advanced long-read full-length transcriptome sequencing technolo
 ![image](https://github.com/user-attachments/assets/2998c0ad-3540-43b1-90a1-efcbc40c88a7)
 
 Pacbio CCS data prrocessing
-Work step-by-step following the official process：
-01. https://isoseq.how/clustering/high-level-workflow.html
+Refer to the official website and follow the step-by-step process
+01. isoseq3
+https://isoseq.how/clustering/cli-workflow.html
 
 followed by cupcake：
 02. https://github.com/Magdoll/cDNA_Cupcake/wiki/Cupcake:-supporting-scripts-for-Iso-Seq-after-clustering-step
